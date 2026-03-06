@@ -102,16 +102,16 @@ body {
 }
 
 .operator {
-    background: rgba(255, 149, 0, 0.85);
+    background: rgba(48, 209, 88, 0.85);
     color: #fff;
     font-weight: 600;
     font-size: 1.8rem;
-    box-shadow: 0 4px 15px rgba(255, 149, 0, 0.3);
+    box-shadow: 0 4px 15px rgba(48, 209, 88, 0.3);
 }
 
 .operator:hover {
-    background: rgba(255, 149, 0, 1);
-    box-shadow: 0 6px 20px rgba(255, 149, 0, 0.4);
+    background: rgba(48, 209, 88, 1);
+    box-shadow: 0 6px 20px rgba(48, 209, 88, 0.4);
 }
 
 .action {
